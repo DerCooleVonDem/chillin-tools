@@ -1,4 +1,4 @@
-package dummy.addon.template.modules.hud;
+package derc.addon.chillintools.modules.hud;
 
 import meteordevelopment.meteorclient.systems.hud.HUD;
 import meteordevelopment.meteorclient.systems.hud.modules.DoubleTextHudElement;

@@ -1,6 +1,6 @@
-package dummy.addon.template.modules;
+package derc.addon.chillintools.modules;
 
-import dummy.addon.template.TemplateAddon;
+import derc.addon.chillintools.TemplateAddon;
 import meteordevelopment.meteorclient.systems.modules.Module;
 
 public class Example extends Module {

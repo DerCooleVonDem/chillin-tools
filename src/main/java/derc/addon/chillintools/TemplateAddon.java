@@ -1,9 +1,9 @@
-package dummy.addon.template;
+package derc.addon.chillintools;
 
-import dummy.addon.template.commands.ExampleCommand;
-import dummy.addon.template.modules.AnotherExample;
-import dummy.addon.template.modules.Example;
-import dummy.addon.template.modules.hud.HudExample;
+import derc.addon.chillintools.commands.ExampleCommand;
+import derc.addon.chillintools.modules.AnotherExample;
+import derc.addon.chillintools.modules.Example;
+import derc.addon.chillintools.modules.hud.HudExample;
 import meteordevelopment.meteorclient.MeteorClient;
 import meteordevelopment.meteorclient.addons.MeteorAddon;
 import meteordevelopment.meteorclient.systems.commands.Commands;

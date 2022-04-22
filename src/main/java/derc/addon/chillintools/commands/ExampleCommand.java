@@ -1,4 +1,4 @@
-package dummy.addon.template.commands;
+package derc.addon.chillintools.commands;
 
 import com.mojang.brigadier.builder.LiteralArgumentBuilder;
 import meteordevelopment.meteorclient.systems.commands.Command;
