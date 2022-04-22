@@ -1,20 +1,21 @@
 {
   "schemaVersion": 1,
-  "id": "addon-template",
+  "id": "addon-chillintools",
   "version": "${version}",
-  "name": "Addon Template",
-  "description": "An addon template for the Meteor addons.",
+  "name": "Chillin' Tools",
+  "description": "Chilled Tools for Random Servers.",
   "authors": [
-    "seasnail8169"
+    "DerCooleVonDem - (Main Dev)",
+    "seasnail8169 - (Template)"
   ],
   "contact": {
-    "repo": "https://github.com/MeteorDevelopment/meteor-addon-template"
+    "repo": "https://github.com/DerCooleVonDem/chillin-tools"
   },
   "icon": "assets/template/icon.png",
   "environment": "client",
   "entrypoints": {
     "meteor": [
-      "dummy.addon.template.TemplateAddon"
+      "derc.addon.chillintools.ChillinTools"
     ]
   },
   "mixins": [
